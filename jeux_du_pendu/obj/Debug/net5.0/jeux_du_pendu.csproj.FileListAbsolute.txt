@@ -1,0 +1,17 @@
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\bin\Debug\net5.0\jeux_du_pendu.exe
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\bin\Debug\net5.0\jeux_du_pendu.deps.json
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\bin\Debug\net5.0\jeux_du_pendu.runtimeconfig.json
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\bin\Debug\net5.0\jeux_du_pendu.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\bin\Debug\net5.0\jeux_du_pendu.dll
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\bin\Debug\net5.0\ref\jeux_du_pendu.dll
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\bin\Debug\net5.0\jeux_du_pendu.pdb
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\obj\Debug\net5.0\jeux_du_pendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\obj\Debug\net5.0\jeux_du_pendu.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\obj\Debug\net5.0\jeux_du_pendu.AssemblyInfo.cs
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\obj\Debug\net5.0\jeux_du_pendu.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\obj\Debug\net5.0\jeux_du_pendu.dll
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\obj\Debug\net5.0\ref\jeux_du_pendu.dll
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\obj\Debug\net5.0\jeux_du_pendu.pdb
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\obj\Debug\net5.0\jeux_du_pendu.genruntimeconfig.cache
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\obj\Debug\net5.0\jeux_du_pendu.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\jeux_du_pendu\jeux_du_pendu\bin\Debug\net5.0\mots.txt
